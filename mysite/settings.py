@@ -25,7 +25,7 @@ SECRET_KEY = '=k*^muls3g&q9d*y7)&6rn-r+2s_cyjc1wco5%ysqlh5%!hu)l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'clreyn.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ForeverClemy.pythonanywhere.com']
 
 
 # Application definition
